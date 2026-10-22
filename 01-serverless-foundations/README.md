@@ -25,7 +25,7 @@ The function processes these values and returns a response containing the origin
 
 The following diagram is a documentation diagram based on the exercise scenario.
 
-![AWS Lambda Serverless Foundations architecture](screenshots/architecture.png)
+![AWS Lambda Serverless Foundations architecture](architecture.png)
 
 ### Request flow
 
